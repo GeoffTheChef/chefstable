@@ -1,0 +1,198 @@
+        /* Top Row */ 
+        /* Container 1 */ 
+
+
+        table {
+            border: 2px solid transparent; 
+        } 
+
+        img {
+            border-radius: 10px; 
+        }
+
+        .container1 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container1 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container1 .chef1 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container1 .chef1:hover {
+            background-color: black;
+        }
+   
+        
+         /* Container 2 */
+
+         .container2 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container2 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container2 .chef2 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container2 .chef2:hover {
+            background-color: black;
+        }
+
+         
+         /* Container 3 */ 
+
+         .container3 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container3 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container3 .chef3 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container3 .chef3:hover {
+            background-color: black;
+        }
+
+        /* Bottom Row */ 
+         /* Container 4 */ 
+
+         .container4 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container4 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container4 .chef4 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container4 .chef4:hover {
+            background-color: black;
+        }
+
+         /* Container 5 */
+
+         .container5 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container5 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container5 .chef5 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container5 .chef5:hover {
+            background-color: black;
+        }
+
+         /* Container 6 */
+         
+         .container6 {
+            position: relative;
+            width: 100%;
+        }
+
+        .container6 img {
+            width: 100%;
+            height: auto;
+        }
+
+        .container6 .chef6 {
+            position: absolute;
+            top: 80%;
+            right: 50%;
+            transform: translate(-50%, - 50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #555;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .container6 .chef6:hover {
+            background-color: black;
+        }
